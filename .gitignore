@@ -44,6 +44,8 @@ nosetests.xml
 coverage.xml
 *,cover
 .hypothesis/
+venv/
+.python-version
 
 # Translations
 *.mo
@@ -58,5 +60,10 @@ docs/_build/
 # PyBuilder
 target/
 
-# pyenv python configuration file
-.python-version
+#Ipython Notebook
+.ipynb_checkpoints
+
+# Intellij IDEA files
+.idea/*
+*.iml
+.vscode
