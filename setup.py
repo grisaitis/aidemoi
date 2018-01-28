@@ -27,7 +27,7 @@ test_requirements = [
 setup(
     name='aidemoi',
     version='0.1.0',
-    description="aidemoi is a toolkit for AI-assisted dvisual art design",
+    description="aidemoi is a toolkit for AI-assisted visual art design",
     long_description=readme + '\n\n' + history,
     author="William Claiborne Grisaitis",
     author_email='william@grisait.is',

@@ -9,7 +9,7 @@ aidemoi
      :alt: Updates
 
 
-aidemoi is a toolkit for AI-assisted dvisual art design
+aidemoi is a toolkit for AI-assisted visual art design
 
 
 
